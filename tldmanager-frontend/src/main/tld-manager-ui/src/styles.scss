@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import "assets/stylesheets/foundation_settings";
+@import "../node_modules/foundation-sites/assets/foundation";
+
+@import "assets/stylesheets/app";
+.body{
+
+}
+
+.content-with-elevation{
+  background-color: white;
+  box-shadow: 0 14px 18px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding-bottom: 32px;
+}
+

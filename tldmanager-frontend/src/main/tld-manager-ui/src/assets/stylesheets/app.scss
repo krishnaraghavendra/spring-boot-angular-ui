@@ -1,0 +1,26 @@
+@import "application_settings";
+
+.opp-removed{
+  color: $failureOrBadColor;
+}
+
+.opp-added{
+  color: $sucessORGoodColor;
+}
+
+.opp-updated{
+  color: $warningOrCautionColor;
+}
+
+.button.warning{
+  background-color: $warningOrCautionColor;
+}
+
+.button.alert{
+  background-color: $failureOrBadColor;
+}
+
+.button.success{
+  background-color: $sucessORGoodColor;
+}
+

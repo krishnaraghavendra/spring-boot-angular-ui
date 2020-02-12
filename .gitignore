@@ -1,0 +1,11 @@
+.idea*
+**.log
+**/target/*
+**/*.iml
+**/*.log
+
+/dist
+/tmp
+*.sh
+
+*.iml
